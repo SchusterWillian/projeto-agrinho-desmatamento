@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&family=Rakkas&display=swap');
 
 /* Variáveis */
@@ -27,18 +28,25 @@ body {
     background-color: var(--background-color);
     color: var(--text-color);
     line-height: 1.6;
+    text-align:center;
+    text-align:justify;
 }
 
 h3 {
     margin-top: 25px;
+    text-align:center;
+    text-align:justify;
 }
 
 p {
-    margin-top: 20px;
+    margin-top: 50px;
+    text-align:center;
+    text-align:justify;
 }
 
 img {
     max-width: 90%;
+    text-align:center;
 }
 
 /* código omitido */    
